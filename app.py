@@ -5,8 +5,8 @@ import bs4 as bs
 import sqlite3
 import os, ssl
 import requests
-import tkinter
-from tkinter import *
+#import tkinter
+#from tkinter import *
 
 barcode = 0
 
@@ -459,5 +459,5 @@ def User_input(barcode):
     else:
         return render_template('User_input.html', barcode = barcode)
 
-if __name__ == '__main__':
-    app.run(debug=True)
+#if __name__ == '__main__':
+    #app.run(debug=True)
