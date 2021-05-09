@@ -5,8 +5,6 @@ certifi
 cffi                   
 chardet               
 click                 
-conda                  
-conda-package-handling 
 cryptography          
 cycler                
 distlib               
@@ -22,8 +20,7 @@ matplotlib
 numpy                 
 opencv-python         
 pandas               
-Pillow                
-pip                   
+Pillow                      
 pycosat            
 pycparser              
 pyOpenSSL            
@@ -33,7 +30,6 @@ python-dateutil
 pytz                  
 pyzbar                
 requests             
-ruamel-yaml-conda      
 scikit-learn           
 scipy                 
 setuptools            
@@ -42,7 +38,5 @@ sklearn
 soupsieve             
 threadpoolctl         
 tqdm                   
-urllib3                
-virtualenv             
-Werkzeug               
-wheel                 
+urllib3                  
+Werkzeug                
